@@ -17,6 +17,13 @@ body {
   line-height: 1.7;
   color: #4d4d4d;
   background: #fff;
+
+  font-family: "Nanum Gothic", ;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #4d4d4d;
+  background: #fff;
 }
 
 #page {
@@ -581,7 +588,6 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .timeline-title {
-  font-family: 'Nanum Gothic', ;
   margin-top: 0;
 }
 
